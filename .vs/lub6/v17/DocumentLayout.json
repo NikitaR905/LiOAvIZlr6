@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u041F\u0413\u0423\\2 \u043A\u0443\u0440\u0441\\\u041B\u0438\u041E\u0410\u0432\u0418\u0417\\lub6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC037137-D6F0-4EB8-A370-33DB342F32D2}|lub6.vcxproj|C:\\Users\\user\\Desktop\\\u041F\u0413\u0423\\2 \u043A\u0443\u0440\u0441\\\u041B\u0438\u041E\u0410\u0432\u0418\u0417\\lub6\\lub6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC037137-D6F0-4EB8-A370-33DB342F32D2}|lub6.vcxproj|solutionrelative:lub6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lub6.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u0413\u0423\\2 \u043A\u0443\u0440\u0441\\\u041B\u0438\u041E\u0410\u0432\u0418\u0417\\lub6\\lub6.cpp",
+              "RelativeDocumentMoniker": "lub6.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u0413\u0423\\2 \u043A\u0443\u0440\u0441\\\u041B\u0438\u041E\u0410\u0432\u0418\u0417\\lub6\\lub6.cpp",
+              "RelativeToolTip": "lub6.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-15T16:17:47.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
