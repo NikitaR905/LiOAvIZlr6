@@ -128,6 +128,17 @@ void contractEdge(int n, int m[MAX][MAX],
         return;
     }
     mergeVertices(n, m, u, v, res, newN);
+
+    if (*newN > 0) {
+        int map[MAX];
+        int idx = 0;
+        for (int i = 0; i < n; i++) {
+            if (i != v)
+                map[i] = idx++;
+        }
+        map[v] = map[u];
+        res[map[u]][map[u]] = 1;
+    }
 }
 
 void splitVertex(int n, int m[MAX][MAX],
